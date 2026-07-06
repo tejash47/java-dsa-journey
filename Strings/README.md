@@ -7,7 +7,7 @@ Java solutions for LeetCode String problems.
 - ✅ LC9 - Palindrome Number
 - ✅ LC242 - Valid Anagram
 
-**Total:** 2 Problems
+**Total:** 4 Problems
 # Strings
 
 This folder contains my Java solutions for LeetCode String problems.
@@ -16,7 +16,7 @@ This folder contains my Java solutions for LeetCode String problems.
 
 | Solved | Total |
 |--------|------:|
-| 2 | 2 |
+| 4 | 4 |
 
 ---
 
@@ -27,6 +27,7 @@ This folder contains my Java solutions for LeetCode String problems.
 | 9 | Palindrome Number | Easy |
 | 20 | Valid Parentheses | Easy |
 | 242 | Valid Anagram | Easy |
+| 14 | Longest Common Prefix | Easy |
 
 ---
 
