@@ -36,7 +36,7 @@ java-dsa-journey/
 | Arrays | 13 |
 | Binary search | 3 |
 | Strings | 7 |
-| Linked List | 0 |
+| Linked List | 2 |
 | Trees | 1 |
 
 **Total Problems Solved:** **24**

@@ -1,24 +1,40 @@
 # Linked List
 
-This folder will contain my Java solutions for Linked List problems.
+This folder contains my Java solutions for LeetCode Linked List problems.
 
 ## Progress
 
 | Solved | Total |
 |--------|------:|
-| 0 | 0 |
+| 2 | 2 |
 
 ---
 
-## Upcoming Topics
+## Problems
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 21 | Merge Two Sorted Lists | Easy |
+| 206 | Reverse Linked List | Easy |
+
+---
+
+## Concepts Covered
 
 - Singly Linked List
-- Doubly Linked List
-- Reverse Linked List
-- Merge Two Lists
-- Cycle Detection
-- Remove Nth Node
-- Intersection of Lists
+- Pointer Manipulation
+- Dummy Node
+- Iterative Traversal
+- In-place Reversal
+
+---
+
+## Learning Outcomes
+
+- Traverse linked lists efficiently
+- Merge sorted linked lists
+- Reverse a linked list in-place
+- Understand pointer manipulation
 
 ---
 
