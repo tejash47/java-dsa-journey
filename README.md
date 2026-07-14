@@ -39,7 +39,7 @@ java-dsa-journey/
 | Linked List | 2 |
 | Trees | 1 |
 
-**Total Problems Solved:** **24**
+**Total Problems Solved:** **26**
 
 ---
 
