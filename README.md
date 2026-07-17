@@ -36,10 +36,11 @@ java-dsa-journey/
 | Arrays | 13 |
 | Binary search | 3 |
 | Strings | 7 |
+| StackQueue | 2 |
 | Linked List | 4 |
 | Trees | 1 |
 
-**Total Problems Solved:** **28**
+**Total Problems Solved:** **30**
 
 ---
 
